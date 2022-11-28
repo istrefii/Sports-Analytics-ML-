@@ -1,1 +1,7 @@
-TBD
+This module shows how to forecast the outcome of EPL soccer games using an ordered logit model and publicly available information. 
+It assesses the accuracy of these forecasts against the betting odds and shows that they are remarkably accurate.
+
+Learning Objectives
+Use ordered logit regression to model game outcomes
+Generate forecasts based on regression coefficients
+Evaluate the predictive accuracy of the forecasting model
