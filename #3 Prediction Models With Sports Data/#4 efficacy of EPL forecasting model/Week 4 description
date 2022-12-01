@@ -1,1 +1,7 @@
-TBD
+This module assesses the efficacy of the EPL forecasting model covered in the previous week by replicating the model in the context of three North American team sports leagues (i.e., NHL, NBA, MLB). Specifically, this module shows how to forecast the outcome of NHL, NBA, MLB regular season games using an ordered logit model and publicly available information. It assesses the accuracy of these forecasts against the betting odds.
+Learning Objectives
+Assess the efficacy of the forecasting model for MLB, NHL, & NBA.
+Identify key variables: Inputs & Outputs
+Create the datasets: Data partitioning and merging
+Analyze regular season data regarding (1) data manipulation and descriptive analysis and (2) statistical analysis and modeling.
+Compare the results from forecasting model against betting odds
