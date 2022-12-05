@@ -1,0 +1,7 @@
+This week introduces a simple example of sports analytics in practice - the calculation of the Pythagorean expectation to model winning in team sports. This can also be used for the purposes of prediction. Examples are developed for five different sports leagues, Major League Baseball (MLB), the National Basketball Association (NBA), the National Hockey League (NHL), the English Premier League (EPL-soccer) and the Indian Premier League (IPL-cricket).
+
+Learning Objectives
+  Give examples of using data to analyze sport performance
+  Recognize the role of analytics in sport performance
+  Recognize the advantages of using Python to analyze data
+  Gain an initial understanding of the statistical methods in sports analytics
