@@ -1,0 +1,11 @@
+This week will use NBA data to introduce basic and important Python codes to conduct data cleaning and data preparation. 
+This week also discusses summary and descriptive analyses with statistics and graphs to understand the distribution of data, the characteristics and pattern of variables as well as the relationship between two variables. 
+At the end of this week, we will introduce correlation coefficients to summarize the linear relationship between two variables.
+
+Learning Objectives
+  Import data into Python
+  Describe the features of “Pandas” library in Python
+  Evaluate missing data and understand the various methods to handle missing data
+  Describe the characteristics of the data and apply relevant statistics to summarize the data
+  Define correlation and calculate the correlation coefficient between two variables using Excel and Python
+  Recognize the uncertainty in sports and understand the challenge in sports analytics
