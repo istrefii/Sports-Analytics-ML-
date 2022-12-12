@@ -1,0 +1,9 @@
+This module introduces some ways of representing data using examples from MLB, the NBA and Indian Premier League. 
+MLB data is used to analyze the spatial distribution of different hits. 
+NBA data is used to generate heatmaps to illustrate the different ways in which players contribute. 
+IPL data is used to show how team performances can be compared graphically.
+
+Learning Objectives
+  Identify ways to visualize sports data
+  Utilize Matplotlib to generate plots to describe the relationship between variables
+  Develop strategies for telling stories about the data visually
