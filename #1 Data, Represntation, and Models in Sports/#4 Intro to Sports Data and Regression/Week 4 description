@@ -1,0 +1,12 @@
+This week introduces the fundamentals of regression analysis. We will discuss how to perform regression analysis using Python
+and how to interpret regression output. We will use NHL data to estimate multiple regression models to identify the team level performance factors 
+that affect the team's winning percentage. We will also use cricket data from the Indian Premier League to run regression analyses to examine whether
+player performance impacts player salary.
+
+Learning Objectives
+  Understand the basic concept of regression analysis and its advantage over correlation analyses
+  Identify the dependent variables and independent variables in the data
+  Run ordinary least square regression using Python
+  Explain the meaning of estimated coefficients and describe the estimated effect of each independent variable
+  Evaluate the significance of the estimated impact using t-statistics
+  Evaluate the overall performance of the linear model by interpreting R-Squared
