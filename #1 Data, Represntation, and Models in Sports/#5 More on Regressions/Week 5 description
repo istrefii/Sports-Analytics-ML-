@@ -1,0 +1,8 @@
+This module uses regression analysis to investigate the relationship between team salary spending and team performance in the NBA, NHL, EPL and IPL. 
+The module explores different ways of defining the regression model, and how to interpret competing regression model results.
+
+Learning Objectives
+  Determining how to specify a regression model to address the question at hand
+  How to specify lags, dummy variables and fixed effects in Python
+  Generate appropriate graphs to describe time series data in Python
+  Calculate autocorrelation coefficient of a variable in Python Interpreting the regression output generated in Python
