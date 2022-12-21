@@ -1,0 +1,11 @@
+This week studies an interesting topic in sport, the hot hand. We will introduce the concept of hot hand and discuss the academic research that examines 
+whether the hot hand is a phenomenon or a fallacy. We will demonstrate how to analytically test the hot hand using the NBA shot log data. 
+We will test whether NBA players have hot hand by computing conditional probabilities and autocorrelation coefficients as well as performing 
+regression analyses.
+
+Learning Objectives
+  Describe and explain the “hot hand phenomenon” originated from basketball
+  Generate hypotheses to test the hot hand phenomenon
+  Identify relevant variables in the basketball dataset to test the hypothesis
+  Identify the appropriate statistical methods to test the hypothesis and perform the analyses in Python
+  Draw inferences from the hypothesis testing
