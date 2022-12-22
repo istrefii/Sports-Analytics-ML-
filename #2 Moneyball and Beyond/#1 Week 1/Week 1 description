@@ -1,9 +1,0 @@
-In this module we introduce the Moneyball story and explore the method used to test that story. 
-We begin the process of replicating the moneyball test by establishing the relationship between team winning and 
-two performance statistics - on base percentage (OBP) and slugging percentage (SLG).
-
-Learning Objectives
-  Identify the testable hypotheses in the Moneyball story
-  Navigate the Lahman baseball database
-  Organize the data to calculate OBP and SLG
-  Reproduce the Hakes & Sauer regressions and organizing the output in a table
