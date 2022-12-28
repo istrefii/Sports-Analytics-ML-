@@ -1,0 +1,9 @@
+In this module we estimate the relationship between MLB player salaries and their performance statistics, OBP (on base percentage) and SLG (slugging). 
+The results appear to confirm the Moneyball story - OBP was undervalued relative to SLG prior to the publication of Moneyball, while after publication 
+the relative significance is reversed.
+
+Learning Objectives
+  Merge dataframes to create a single dataframe comprising of the variables of interest
+  Construct data manipulation techniques including how to construct a function in Python
+  Reproduce the salary regressions from Hakes & Sauer and comparing the results
+  Evaluate the Moneyball story as told through the analysis of Hakes and Sauer.
