@@ -1,0 +1,7 @@
+This module updates the analysis of Hakes & Sauer and estimates the rewards to OBP and SLG over the period 1994 -2015.
+In addition it shows how rewards can be related to individual components of SLG: walks, singles, doubles, triples, and home runs.
+
+Learning Objectives
+  Use more complex functions to summarize data
+  Compare regression results across time periods
+  Compare cross section and pooled regression results
