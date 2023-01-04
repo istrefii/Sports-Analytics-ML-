@@ -1,0 +1,7 @@
+This module introduces the concept of run expectancy, shows how to derive the run expectancy matrix and the calculation of run values based on an MLB 
+dataset of all events in the 2018 season. Run values are calculated by event type (walks, singles, doubles, etc.) and by player.
+
+Learning Objectives
+  Understand the logic of run expectancy and the run expectancy matrix
+  Code the run expectancy matrix in Python
+  Derive run values and analyzing them using different categories
