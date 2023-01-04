@@ -1,0 +1,8 @@
+This module examines the concept of Wins Above Replacement (WAR) and shows how to calculate WAR based on batting performance. 
+The relationship between play run values team win percentage and player salaries is then explored. Run values are shown to have a high degree of 
+correlation with winning and with salaries. Run values can to a limited extent predict win percentage.
+
+Learning Objectives
+  Write a function to generate run values
+  Compare run values, win percentages and player salaries across seasons
+  Assess the predictive power of run values
