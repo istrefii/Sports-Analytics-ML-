@@ -1,0 +1,11 @@
+In this module, we will focus on what we have introduced as “external” measures. We will point out some of the (inaccurate) assumptions that are made 
+regarding external measures of “load” and “effort”. In addition, we will outline how the continuous use of wearable devices has led to new opportunities 
+for quantifying effort as well as (in theory) reducing injury and improving performance. We will finish by describing the “acute to chronic workload” and
+the reasons it has gained a lot of attention in the past several years.
+
+Learning Objectives
+  Define how accelerometry measures are related to training load
+  Introduce the concept of relative and absolute intensity (as external sensors do not measure relative intensity)
+  Outline the topic of the acute to chronic workload ratio (ACWR)
+  Describe the endpoints / methods used to determine the "best" ACWR (and the evidence that supports the use of ACWR)
+  Outline the use of external measures to predict endpoints (e.g. injury) via machine learning
