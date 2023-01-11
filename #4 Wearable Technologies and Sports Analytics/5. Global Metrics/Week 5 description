@@ -1,9 +1,0 @@
-In this module, we will discuss the exciting new global metrics that have been developed and/or used by many of the consumer devices that are available 
-today. Although these new metrics are exciting, we want to be cognizant of the limitations of these devices. Therefore, we will discuss what sensors 
-are actually employed to provide these new metrics and highlight where validation is feasible.
-
-Learning Objectives
-  Outline the utility and dangers of “global metrics” being used by wearables today
-  Describe the sensors used to predict global metrics such as “stress scores” and “body battery”
-  Differentiate “global metrics” that can be effectively validated from those that can NOT be validated (based on the availability of a “gold standard” or “ground truth” measure)
-  Outline the sensors that are used to evaluate “sleep stage” and sleep scores with current wearable devices
