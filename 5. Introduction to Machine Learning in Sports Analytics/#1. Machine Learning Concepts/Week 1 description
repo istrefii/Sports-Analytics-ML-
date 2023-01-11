@@ -1,0 +1,8 @@
+This week will introduce the concept of machine learning and describe the four major areas of places it can be used in sports analytics. 
+The machine learning pipeline will be discussed, as well as some common issues one runs into when using machine learning for sports analytics.
+
+Learning Objectives
+  Understand the issue of overfitting
+  Understand the general stages of machine learning: data acquisition, feature engineering, predictive modeling, and evaluation
+  Understand the difference between classification, clustering, and regression, and how they relate to one another
+  Understand what machine learning is and how it differs from other statistical approaches
