@@ -1,0 +1,9 @@
+In this week students will learn how Support Vector Machines (SVM) work, and will experience these models when looking at both baseball and wearable data. 
+Coming out of the week students will have experience building SVMs with real data and will be able to apply them to problems of their own.
+
+Learning Objectives
+  Exploring how SVMs can be used to classify boxing punches based on wearable data
+  Understanding how the SVM can be used to predict pitch results in MLB based on ball data
+  Understanding how training and testing data affects the results of support vector machine models
+  Experience building a support vector machine
+  Understand what a support vector machine is a high level
