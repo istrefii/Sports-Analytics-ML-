@@ -1,0 +1,10 @@
+This week will focus on interpretable methods for machine learning with a particular focus on decision trees. Students will 
+learn how these models work in general, and see special uses of decision trees in combination with regression methods. In this week students will come 
+to better understand how the python sklearn toolkit can be used for a breadth of supervised learning tasks.
+
+Learning Objectives
+  Adding new data to an existing analysis to improve performance
+  Understand what impurity is in a decision tree, and what the gini is
+  Understand the combination of decision trees with regression
+  Understand the benefits of a decision tree over other approaches, e.g. interpretability
+  Understand a classification decision tree
