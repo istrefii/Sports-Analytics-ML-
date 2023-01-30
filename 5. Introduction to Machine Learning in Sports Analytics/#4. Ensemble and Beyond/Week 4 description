@@ -1,0 +1,10 @@
+In this week of the course students will learn how many different models can be used together through ensembles, including the random forest method as 
+a common use, as well as more general methods available in sklearn such as stacking and bagging. By the end of this week students will have a broad 
+understanding of how methods such as SVMs, decision trees, and logistic regression can be used together to solve a problem with increasing performance.
+
+
+Learning Objectives
+  Understand the benefit of an ensemble, and how to apply them more generally in sklearn
+  Understand the different kinds of ensembles that exist
+  Be exposed to a breadth of contexts where analytics and athletics overlap
+  Understand the challenge and issues in collecting data specifically
